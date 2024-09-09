@@ -35,3 +35,6 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 # fashion-disaster-avoider-draft
+Link #1: https://fashion-diaster-avoider.vercel.app/
+Link #2: https://fashion-diaster-avoider-git-master-vineet-panchals-projects.vercel.app/
+Link #3: https://fashion-diaster-avoider-vineet-panchals-projects.vercel.app/
