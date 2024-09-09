@@ -12,9 +12,9 @@
   justify-content: center;
   /* flex-direction: column; */
   align-items: center;
-  background-image: url("./assets/bg-1.jpg");
-  background-size: cover;
+  /* background-image: url("./assets/bg-1.jpg"); */
+  /* background-size: cover;
   background-position: center;
-  background-repeat: no-repeat;
+  background-repeat: no-repeat; */
 }
 
